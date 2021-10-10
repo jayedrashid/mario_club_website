@@ -1,2 +1,16 @@
 # Mario Club - Website
-mario_club website by The Net Ninja
+
+This is Mario Club website project by The Net Ninja.
+
+
+## Screenshots
+
+<img src="./img/marioclub.png">
+  
+## Features
+
+- HTML
+- CSS
+
+
+  
